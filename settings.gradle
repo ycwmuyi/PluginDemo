@@ -1,0 +1,1 @@
+include ':app_host', ':plugin', ':app_plugin_a'
